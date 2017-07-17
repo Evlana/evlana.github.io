@@ -1,0 +1,147 @@
+/*__________Mise en forme__________*/
+h1{
+	color: red;
+	margin-left: 1%;
+	position: absolute;
+	z-index:2;
+	text-shadow: 2px 0 0 black, -2px 0 0 black, 0 2px 0 black, 0 -2px 0 black, 1px 1px black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+	font-size: 151%;
+}
+
+h2{
+	margin-left: 15%;
+}
+
+header{
+	background: #9D2419;
+	width: 70%;
+	margin-left: 15%;
+	border-width: 1px;
+	border-color: black;
+	margin-bottom: 0%;
+}
+
+body{
+	font-family: "OpenSans", sans-serif;
+	margin: 0;
+	/*text-align: center;*/
+	height: auto;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+article{
+	padding:25px;
+}
+
+nav{
+	/*margin-left: 15%;*/
+	/*padding-bottom: 5px;*/
+	margin-bottom: 0;
+	padding: 15px;
+}
+
+nav a{
+	margin-right:5%; /*25px*/
+	text-decoration: none;
+}
+
+
+
+/*__________Images__________*/
+
+#accueil{
+	background-image: url("back.jpg");
+}
+
+#back_journal{
+	background-image: url("back_journal.jpg");
+}
+
+#back_alice{
+	background-image: url("back_alice.jpg");
+}
+
+#banniere{
+	/*margin-left: 15%;*/
+	/*margin-right: auto;*/
+	width: 100%;
+	max-width: 100%;
+	/*position: absolute;*/
+	z-index:1;
+}
+
+#moi{
+	height:200px;
+	margin: 0px;
+}
+
+.img_ajust{
+	width: 70%;
+	max-width: 100%;
+}
+
+.img_monarchiie_dress{
+	width: 40%;
+	max-width: 100%;
+}
+
+/*__________Couleur du fond__________*/
+
+#bgc_accueil{
+	background: #DBAE99;
+	width: 70%;
+	margin-left: 15%;
+	/*padding: 25px;*/
+	margin-top: 0%;
+}
+
+#bgc_journal{
+	background: #485466;
+	width: 70%;
+	margin-left: 15%;
+	/*padding: 25px;*/
+	margin-top: 0%;
+}
+
+#bgc_alice{
+	background: #EBEFF1;/*#95C8D4;*/
+	width: 70%;
+	margin-left: 15%;
+	margin-top: 0%;
+}
+
+/*___________Polices et texte_________*/
+
+@font-face{
+	font-family: "OpenSans";
+	src: url("font/OpenSans.ttf") format("truetype");
+}
+
+.redKartayla{
+	color: #9D2419;
+	text-shadow: 2px 0 0 black, -2px 0 0 black, 0 2px 0 black, 0 -2px 0 black, 1px 1px black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+}
+
+#color_font_accueil{
+	color: black;
+}
+
+#color_font_other{
+	color: white;
+}
+
+/*___________Liens__________*/
+
+a:hover{
+	color: #CCAA44;
+}
+
+a:visited{
+	color:#E8D7A3;
+}
+
+a:link{
+	color: #E8D7A3;
+}
