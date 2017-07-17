@@ -1,7 +1,7 @@
 document.write('\
 \		<header>\
 \			<h1> Le Shabbat avec Samuel /!\ En construction, titre provisoire /!\</h1>\
-\			<img src=\"images/banniere.jpg\" alt=\"étendard\" id=\"banniere\"></a>\
+\			<img src=\"images\/banniere.jpg\" alt=\"étendard\" id=\"banniere\"></a>\
 \			<nav>\
 \				<a href=\"enquete.html\"> Journal d\'une chasse sportive</a>\
 \				<a href=\"alice.html\"> Alice <3</a>\
