@@ -52,15 +52,15 @@ nav a{
 /*__________Images__________*/
 
 #background_image{
-	background-image: url("back.jpg");
+	background-image: url("images/back.jpg");
 }
 
 #back_journal{
-	background-image: url("back_journal.jpg");
+	background-image: url("images/back_journal.jpg");
 }
 
 #back_alice{
-	background-image: url("back_alice.jpg");
+	background-image: url("images/back_alice.jpg");
 }
 
 #banniere{
@@ -105,7 +105,7 @@ nav a{
 	margin-top: 0%;
 }
 
-#bgc_alice{
+#fond_alice{
 	background: #EBEFF1;/*#95C8D4;*/
 	width: 70%;
 	margin-left: 15%;
