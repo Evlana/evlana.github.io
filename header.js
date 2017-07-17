@@ -1,6 +1,6 @@
 document.write('\
 \<head>\
-\		<link rel="stylesheet" href="index.css" type="text/css">\
+\		<link rel="stylesheet" href="style.css" type="text/css">\
 \			<meta charset="UTF-8"/>\
 \			<title> L'Inquisition à l'ENSIIE</title>\
 \</head>\
