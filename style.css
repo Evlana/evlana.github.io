@@ -51,7 +51,7 @@ nav a{
 
 /*__________Images__________*/
 
-#accueil{
+#background_image{
 	background-image: url("back.jpg");
 }
 
@@ -89,7 +89,7 @@ nav a{
 
 /*__________Couleur du fond__________*/
 
-#bgc_accueil{
+#fond{
 	background: #DBAE99;
 	width: 70%;
 	margin-left: 15%;
@@ -97,7 +97,7 @@ nav a{
 	margin-top: 0%;
 }
 
-#bgc_journal{
+#fond_journal{
 	background: #485466;
 	width: 70%;
 	margin-left: 15%;
