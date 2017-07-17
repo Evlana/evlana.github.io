@@ -47,7 +47,10 @@ nav a{
 	text-decoration: none;
 }
 
-
+a:hover {
+	transition: color 0.5s;
+    color: red;
+}
 
 /*__________Images__________*/
 
