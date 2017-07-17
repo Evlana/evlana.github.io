@@ -1,9 +1,4 @@
 document.write('\
-\<head>\
-\		<link rel=\"stylesheet\" href=\"style.css\" type=\"text/css\">\
-\			<meta charset=\"UTF-8\"/>\
-\			<title> L\'Inquisition </title>\
-\</head>\
 \		<header>\
 \			<h1> Le Shabbat avec Samuel /!\ En construction, titre provisoire /!\</h1>\
 \			<img src=\"banniere.jpg\" alt=\"étendard\" id=\"banniere\"></a>\
