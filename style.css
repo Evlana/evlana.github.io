@@ -112,26 +112,6 @@ nav a{
 	margin-top: 0%;
 }
 
-/*___________Polices et texte_________*/
-
-@font-face{
-	font-family: "OpenSans";
-	src: url("font/OpenSans.ttf") format("truetype");
-}
-
-.redKartayla{
-	color: #9D2419;
-	text-shadow: 2px 0 0 black, -2px 0 0 black, 0 2px 0 black, 0 -2px 0 black, 1px 1px black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
-}
-
-#color_font_accueil{
-	color: black;
-}
-
-#color_font_other{
-	color: white;
-}
-
 /*___________Liens__________*/
 
 #nav a:hover {
@@ -151,3 +131,23 @@ nav a{
 a:link{
 	color: #E8D7A3;
 }*/
+
+/*___________Polices et texte_________*/
+
+@font-face{
+	font-family: "OpenSans";
+	src: url("font/OpenSans.ttf") format("truetype");
+}
+
+.redKartayla{
+	color: #9D2419;
+	text-shadow: 2px 0 0 black, -2px 0 0 black, 0 2px 0 black, 0 -2px 0 black, 1px 1px black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+}
+
+#color_font_accueil{
+	color: black;
+}
+
+#color_font_other{
+	color: white;
+}
