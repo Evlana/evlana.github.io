@@ -134,6 +134,12 @@ nav a{
 
 /*___________Liens__________*/
 
+#navigation a:hover {
+    border-bottom: 1px solid #9D2419;
+    color: #9D2419;
+    transition: color 0.3s;
+}
+
 a:hover{
 	color: #CCAA44;
 }
@@ -144,10 +150,4 @@ a:visited{
 
 a:link{
 	color: #E8D7A3;
-}
-
-#navigation a:hover {
-    border-bottom: 1px solid #9D2419;
-    color: #9D2419;
-    transition: color 0.3s;
 }
