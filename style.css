@@ -115,8 +115,8 @@ nav a{
 }
 
 nav a:hover{
-    border-bottom: 1px solid blue/*#9D2419*/;
-    color: blue /*#9D2419*/;
+    border-bottom: 1px solid #1952a8/*#9D2419*/;
+    color: #1952a8 /*#9D2419*/;
     transition: color 0.3s;
 }
 
