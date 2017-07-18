@@ -42,12 +42,12 @@ nav{
 	padding: 15px;
 }
 
-nav a{
+/*nav a{
 	margin-right:5%; /*25px*/
 	transition: color 0.5s;
 	color: red;
 	text-decoration: none;
-}
+}*/
 
 /*__________Images__________*/
 
@@ -134,15 +134,15 @@ nav a{
 
 /*___________Liens__________*/
 
-#navigation a:hover {
+#nav a:hover {
     border-bottom: 1px solid #9D2419;
     color: #9D2419;
     transition: color 0.3s;
 }
 
-a:hover{
+/*a:hover{
 	color: #CCAA44;
-}
+}*/
 
 a:visited{
 	color:#E8D7A3;
