@@ -1,6 +1,6 @@
 document.write('\
 \		<header>\
-\			<h1> Le Shabbat avec Samuel /!\ En construction, titre provisoire /!\</h1>\
+\			<h1> Rêve du chasseur /!\ En construction, titre provisoire /!\</h1>\
 \			<img src=\"images\/banniere.jpg\" alt=\"étendard\" id=\"banniere\"></a>\
 \			<nav>\
 \				<a href=\"images/reinhard.png\"> Sieg mein Kaiser </a>\
