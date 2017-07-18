@@ -8,9 +8,7 @@
 
 	<body id = "background_image">
 		<script type = "text/javascript">
-		var sc = document.createElement('script');
-		document.getElementsByClassName('switch').attributes == "checked" ? sc.src="header_nuit.js" : sc.src="header.js";
-		document.getElementsByTagName('head')[0].appendChild(sc);
+		document.getElementsByClassName('switch').attributes == "checked" ? document.write(<script src="header_nuit.js">) : document.write(<script src="header.js">);
 		</script>
 
 		<section id = "fond">
