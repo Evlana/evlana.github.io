@@ -11,7 +11,7 @@ document.write('\
 \				<\!--<a href=\"projet_vn.html\"> VN </a>-->\
 \       <!-- Rectangular switch --> \
 \        <label class="switch"> \
-\          <input type="checkbox" id='jour_nuit' checked> \
+\          <input type="checkbox" id=\'jour_nuit\' checked> \
 \          <span class="slider"></span> \
 \        </label> \
 \			</nav>\
