@@ -8,7 +8,10 @@
 
 	<body id = "background_image">
 		<script type = "text/javascript">
-		document.getElementsByClassName('switch').attributes == "checked" ? document.write(<script src="header_nuit.js">) : document.write(<script src="header.js">);
+		if (document.getElementById('jour_nuit').attributes == "checked" )
+			document.write(<script src="header_nuit.js">);
+		else
+				document.write(<script src="header.js">);
 		</script>
 
 		<section id = "fond">
