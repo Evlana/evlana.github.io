@@ -9,5 +9,10 @@ document.write('\
 \				<\!--<a href=\"surprise.html\"> Surprise ? et random</a>-->\
 \				<\!--<a href=\"proj.html\"> Proj\'</a>-->\
 \				<\!--<a href=\"projet_vn.html\"> VN </a>-->\
+\       <!-- Rectangular switch --> \
+\        <label class="switch"> \
+\          <input type="checkbox" checked> \
+\          <span class="slider"></span> \
+\        </label> \
 \			</nav>\
 \		</header>');
